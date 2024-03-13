@@ -1,0 +1,26 @@
+{
+    "name": "eckmar/ddos-protection",
+    "description": "The Laravel DDoS Protection package provides a robust solution to defend your Laravel applications against Distributed Denial of Service (DDoS) attacks.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Eckmar\\DDoSProtection\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Eckmar\\DDoSProtection\\DDoSPackageServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Eckmar",
+            "email": "hackerdeveloper@protonmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
