@@ -50,7 +50,7 @@ Feel free to customize the package as needed for your project.
 #### Credits
 
 - Author: Eckmar
-- Email: hackerdeveloper@protonmail.com
+- 
 
 #### License
 
